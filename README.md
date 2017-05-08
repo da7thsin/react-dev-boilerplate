@@ -7,5 +7,5 @@
 `npm install`
 
 ## Build or Serve
-`npm run serve` => Runs `webpack-dev-server`
+`npm run serve` => Runs `webpack-dev-server`  
 `npm run build` => Runs `webpack -p --watch`
